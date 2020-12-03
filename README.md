@@ -147,3 +147,7 @@ __Berikut input code nya__ :
  
  ![Screenshot (190)](https://user-images.githubusercontent.com/73066008/100973786-c784ab00-356d-11eb-807c-810897197e8b.png)
  
+ __Berikut adalah flowchartnya__:
+ 
+ ![1](https://user-images.githubusercontent.com/73066008/100976348-f3099480-3571-11eb-9665-eced9b3edf71.jpeg)
+ 
