@@ -148,4 +148,10 @@ __Berikut input code nya__ :
  ![Screenshot (190)](https://user-images.githubusercontent.com/73066008/100973786-c784ab00-356d-11eb-807c-810897197e8b.png)
  
  
+ __Berikut adalah flowchart nya__:
+ 
+ ![1](https://user-images.githubusercontent.com/73066008/100974943-c6ed1400-356f-11eb-9f7e-6af560c1695a.jpeg)
+
+
+ 
         
